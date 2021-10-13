@@ -1,0 +1,35 @@
+{"level":"info","message":"NODE_ENV = production","service":"test-service","timestamp":"2021-10-13T18:55:18.608Z"}
+{"level":"warn","message":"a simple warning for you!","meta":111,"service":"test-service","timestamp":"2021-10-13T18:55:18.610Z"}
+{"level":"error","message":"something's wrong here","service":"test-service","timestamp":"2021-10-13T18:55:18.611Z"}
+{"level":"error","service":"test-service","timestamp":"2021-10-13T18:55:18.611Z"}
+{"data":0.454708678581873,"level":"error","message":"from test_function","module":"test_function","service":"test-service","timestamp":"2021-10-13T18:55:18.612Z"}
+{"level":"info","message":"NODE_ENV = production","service":"test-service","timestamp":"2021-10-13T18:55:28.990Z"}
+{"level":"warn","message":"a simple warning for you!","meta":111,"service":"test-service","timestamp":"2021-10-13T18:55:28.993Z"}
+{"level":"error","message":"something's wrong here","service":"test-service","timestamp":"2021-10-13T18:55:28.993Z"}
+{"level":"error","service":"test-service","timestamp":"2021-10-13T18:55:28.994Z"}
+{"level":"info","message":"from test_function --> it's ok here!","service":"test-service","timestamp":"2021-10-13T18:55:28.994Z"}
+{"level":"info","message":"NODE_ENV = production","service":"test-service","timestamp":"2021-10-13T18:55:32.260Z"}
+{"level":"warn","message":"a simple warning for you!","meta":111,"service":"test-service","timestamp":"2021-10-13T18:55:32.263Z"}
+{"level":"error","message":"something's wrong here","service":"test-service","timestamp":"2021-10-13T18:55:32.263Z"}
+{"level":"error","service":"test-service","timestamp":"2021-10-13T18:55:32.264Z"}
+{"level":"info","message":"from test_function --> it's ok here!","service":"test-service","timestamp":"2021-10-13T18:55:32.264Z"}
+{"level":"info","message":"NODE_ENV = production","service":"test-service","timestamp":"2021-10-13T18:55:33.752Z"}
+{"level":"warn","message":"a simple warning for you!","meta":111,"service":"test-service","timestamp":"2021-10-13T18:55:33.754Z"}
+{"level":"error","message":"something's wrong here","service":"test-service","timestamp":"2021-10-13T18:55:33.754Z"}
+{"level":"error","service":"test-service","timestamp":"2021-10-13T18:55:33.755Z"}
+{"level":"info","message":"from test_function --> it's ok here!","service":"test-service","timestamp":"2021-10-13T18:55:33.755Z"}
+{"level":"info","message":"NODE_ENV = production","service":"test-service","timestamp":"2021-10-13T18:55:35.377Z"}
+{"level":"warn","message":"a simple warning for you!","meta":111,"service":"test-service","timestamp":"2021-10-13T18:55:35.379Z"}
+{"level":"error","message":"something's wrong here","service":"test-service","timestamp":"2021-10-13T18:55:35.379Z"}
+{"level":"error","service":"test-service","timestamp":"2021-10-13T18:55:35.380Z"}
+{"level":"info","message":"from test_function --> it's ok here!","service":"test-service","timestamp":"2021-10-13T18:55:35.380Z"}
+{"level":"info","message":"NODE_ENV = production","service":"test-service","timestamp":"2021-10-13T18:55:36.815Z"}
+{"level":"warn","message":"a simple warning for you!","meta":111,"service":"test-service","timestamp":"2021-10-13T18:55:36.820Z"}
+{"level":"error","message":"something's wrong here","service":"test-service","timestamp":"2021-10-13T18:55:36.820Z"}
+{"level":"error","service":"test-service","timestamp":"2021-10-13T18:55:36.820Z"}
+{"level":"info","message":"from test_function --> it's ok here!","service":"test-service","timestamp":"2021-10-13T18:55:36.821Z"}
+{"level":"info","message":"NODE_ENV = production","service":"test-service","timestamp":"2021-10-13T18:55:42.646Z"}
+{"level":"warn","message":"a simple warning for you!","meta":111,"service":"test-service","timestamp":"2021-10-13T18:55:42.652Z"}
+{"level":"error","message":"something's wrong here","service":"test-service","timestamp":"2021-10-13T18:55:42.652Z"}
+{"level":"error","service":"test-service","timestamp":"2021-10-13T18:55:42.653Z"}
+{"data":0.34274191246533237,"level":"error","message":"from test_function","module":"test_function","service":"test-service","timestamp":"2021-10-13T18:55:42.654Z"}

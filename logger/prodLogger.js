@@ -1,7 +1,13 @@
 const { createLogger, format, transports, transport } = require('winston');
 const { combine, timestamp, json } = format;
+require('winston-daily-rotate-file');
 
-
+const tr = new transports.DailyRotateFile({
+  filename: 'my-%DATE%.log',
+  dirname: 'log',
+  datePattern: 'YYYY-MM-DD',
+  maxFiles: '14d',
+});
 
 const prodLogger = createLogger({
   level: 'info',
@@ -10,13 +16,7 @@ const prodLogger = createLogger({
     json()
     ),
   defaultMeta: { service : 'test-service'},
-  transports: [
-    new transports.File({ 
-      filename: 'my.log',
-      dirname: 'log',
-    }),
-    new transports.Console()
-  ]
+  transports: [tr]
 })
 
 
