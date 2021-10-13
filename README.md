@@ -2,7 +2,7 @@
 
 ### How to use:
 - development: `npm run dev` (everything goes to the console)
-- production: `npm run build` (everything goes to my.log file)
+- production: `npm run build` (everything goes to /log/my-%DATE%.log file)
 
 ### Packages:
 
