@@ -1,5 +1,8 @@
 # LOGGER_1 Example by using Winston
 
+### How to use:
+- development: `npm run dev` (everything goes to the console)
+- production: `npm run build` (everything goes to my.log file)
 
 ### Packages:
 
@@ -18,7 +21,7 @@ npm i winston-daily-rotate-file
 ```
 
 ### References:
-[1](https://www.youtube.com/watch?v=A5YiqaQbsyI)
-[2](https://www.youtube.com/watch?v=m2q1Cevl_qw)
+- [video 1](https://www.youtube.com/watch?v=A5YiqaQbsyI)
+- [video 2](https://www.youtube.com/watch?v=m2q1Cevl_qw)
 
-### created on 2021-10-13
+### Created on 2021-10-13
