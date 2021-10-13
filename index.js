@@ -1,5 +1,5 @@
 const logger = require('./logger');
-
+const test_function = require('./utility')
 //instead of the standard console.log() ...
 // console.log('some information');
 // console.warn('warning');
@@ -12,4 +12,6 @@ logger.error("something's wrong here");
 logger.debug("debug info");
 logger.log('debug', "same of the previous line");
 
-logger.error(new Error(`error message!`))
+logger.error(new Error(`error message!`));
+
+test_function();
