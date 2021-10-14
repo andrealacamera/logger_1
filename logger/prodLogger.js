@@ -6,7 +6,7 @@ const tr = new transports.DailyRotateFile({
   filename: 'my-%DATE%.log',
   dirname: 'log',
   datePattern: 'YYYY-MM-DD',
-  maxFiles: '14d',
+  maxFiles: '1d',
 });
 
 const prodLogger = createLogger({
